@@ -1,0 +1,3 @@
+You have two data folders, one for ionosphere data set and the other for email spam data set. 
+
+Inside spam folder, you will find the training and test sets, plus the dictionary file. The description of using this file is given in the homework. 

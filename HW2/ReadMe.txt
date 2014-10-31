@@ -1,0 +1,1 @@
+Please change the data pathname in the CSCI567_hw2.m and spam.m
